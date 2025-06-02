@@ -1,4 +1,4 @@
-# Local Voice-Activated Virtual Assistant using Phi-3 and Ollama
+# Virtual Voice Assistant using Phi-3 and Ollama
 A simple, privacy-friendly voice assistant powered by the Phi-3 large language model served via Ollama, capable of listening to your voice, understanding prompts, and responding naturally — all running locally.
 
 🔧 Features
